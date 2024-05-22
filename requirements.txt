@@ -1,0 +1,5 @@
+fastapi[all]
+ultralytics
+gunicorn
+easyocr
+numpy
